@@ -1,12 +1,12 @@
 ### 👋 Hi There!
 
-👨‍💻 I'm a Front-end Developer and Technophile!
+👨‍💻  I'm a Front-end Developer and Technophile!
 
-👯 Are you minding a project? Let's make something special.
+👯  Are you minding a project? Let's make something special.
 
-📫 How to reach me: mail me @ krishna_mangalarapu[at]yahoo[dot]com
+📫  How to reach me: mail me @ krishna_mangalarapu@yahoo.com
 
-⚡ Why not try another time? It's worth it.
+⚡  Why not try another time? It's worth it.
 
-🧿 Portfolio: https://krishpatel.xyz
+🧿  Portfolio: https://krishpatel.xyz
 
