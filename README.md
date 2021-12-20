@@ -8,5 +8,5 @@
 
 ⚡  Why not try another time? It's worth it.
 
-🧿  Portfolio: https://krishpatel.xyz
+🧿  Portfolio: https://krishnasai.me/
 
