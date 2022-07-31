@@ -1,6 +1,6 @@
 ### 👋 Hi There!
 
-👨‍💻  I'm a Front-end Developer and Technophile!
+👨‍💻  I'm a Full-stack Developer and Technophile!
 
 👯  Are you minding a project? Let's make something special.
 
