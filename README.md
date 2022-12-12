@@ -1,6 +1,6 @@
 ### 👋 Hi There!
 
-👨‍💻  I'm a Full-stack Developer and Technophile!
+👨‍💻  I'm a Full-stack Software Engineer, AR/VR Developer and a Technophile!
 
 👯  Are you minding a project? Let's make something special.
 
